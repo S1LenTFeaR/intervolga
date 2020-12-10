@@ -1,6 +1,6 @@
 <?php 
     include_once 'header.html';
-    include_once 'funcs.PHP';
+    include_once 'funcs.php';
 ?>
 
 <section>
