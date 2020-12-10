@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&family=Lobster&display=swap');
+
+section
+{
+    padding-top: 50px;
+    padding-bottom: 50px; 
+}
+
+body 
+{
+    background: rgb(87, 86, 102);
+    color: rgb(255, 255, 255);
+}
+
+.my-header-c 
+{
+    line-height: 1;
+    border-bottom: 2px solid #e5e5e5;
+}
+.my-header 
+{
+    text-decoration: none;
+    font-family: 'Lobster', cursive;
+    font-size: 2.25rem;
+}
+.my-header:hover 
+{
+    text-decoration: none;
+}
+
+.my-header-c a:visited, .my-header-c a
+{
+    color: rgb(255, 255, 255);
+}
+
+.my-header-c a:hover, .my-header-c a:focus, .my-header-c a:hover
+{
+    color: rgb(0, 0, 0);
+}
+
+.container-xxl
+{
+    font-size: 14pt;
+}
+
+a
+{
+    color: rgb(185, 185, 185);
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.card-title
+{
+    padding-top: 5px;
+    font-family: 'Lobster', cursive;
+    font-size: 11pt;
+    color: rgb(0, 0, 0);
+}
+
+.table
+{
+    font-size: 14pt;
+    color: rgb(255, 255, 255);
+}
+  
+
+
+  
+ 
+  
+
